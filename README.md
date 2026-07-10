@@ -1,11 +1,13 @@
-# Leveraging External Knowledge for Historical Document Restoration via Retrieval-Augmented Large Language Models
+<h1 align="center"> Leveraging External Knowledge for Historical Document Restoration via Retrieval-Augmented Large Language Models </h1>
+
+<p align="center"> 📄 <a href="https://aclanthology.org/2026.findings-acl.2148/">Paper</a> &nbsp;|&nbsp; 🤗 <a href="https://huggingface.co/collections/DAMI-Lab/ari-archive-restoration-intelligence">Model</a> </p>
 
 ![Method Figure](assets/method_fig.jpg)
 
 ## News
-- 💭 [2026.07.05] Our paper was presented at the ACL 2026 poster session.
-- ✨ [2026.05.14] ARI-32B and ARI-8B models were officially released.
-- 🎉 [2026.04.06] ARI was accepted to Findings of ACL 2026. 
+- **💭 [2026.07.05] Our paper was presented at the ACL 2026 poster session.**
+- **✨ [2026.05.14] ARI-32B and ARI-8B models were officially released.**
+- **🎉 [2026.04.06] ARI was accepted to Findings of ACL 2026.**
 
 ## Overview
 **ARI (Archive Restoration Intelligence)** is a specialized framework engineered to restore damaged or illegible Hanja characters within the historical records of the Joseon Dynasty, such as the Annals of the Joseon Dynasty (AJD) and the Journal of the Royal Secretariat (JRS). By integrating Retrieval-Augmented Generation (RAG), ARI effectively overcomes the fundamental limitations of conventional masked language models and off-the-shelf LLMs. Specifically, it excels in recovering Named Entities—including personal names (PER), locations (LOC) etc.—that necessitate precise external historical context rather than mere local linguistic patterns. ARI bridges the gap between internal document context and external knowledge archives, providing a practical and robust tool for historical document restoration.
