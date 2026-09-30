@@ -1,6 +1,6 @@
 <h1 align="center"> Leveraging External Knowledge for Historical Document Restoration via Retrieval-Augmented Large Language Models </h1>
 
-<p align="center"> 📄 <a href="https://aclanthology.org/2026.findings-acl.2148/">Paper</a> &nbsp;|&nbsp; 🤗 <a href="https://huggingface.co/collections/DAMI-Lab/ari-archive-restoration-intelligence">Model</a> </p>
+<p align="center"> 📄 <a href="https://aclanthology.org/2026.findings-acl.2148/">Paper</a> &nbsp;|&nbsp; 🤗 <a href="https://huggingface.co/collections/DAMI-Lab/ari-archive-restoration-intelligence">Model</a> &nbsp;|&nbsp; 📜 <a href="https://huggingface.co/spaces/hugging-apps/ari-historical-restoration">Demo</a> </p>
 
 ![Method Figure](assets/method_fig.jpg)
 
